@@ -1,5 +1,1 @@
-movie recommendation system
---->DATA VISUALIZATION
---->DATA PREPROCESSING
---->tRAINING & TESTING THE MODEL
---->PREDICTION
+
